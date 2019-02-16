@@ -1,0 +1,23 @@
+{
+  "name": "lab3-npm-demo-with-david",
+  "version": "1.0.0",
+  "description": "server demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naughtnowwhen/lab3-npm-demo-with-David.git"
+  },
+  "author": "David",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naughtnowwhen/lab3-npm-demo-with-David/issues"
+  },
+  "homepage": "https://github.com/naughtnowwhen/lab3-npm-demo-with-David#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "express": "^4.16.4"
+  }
+}
